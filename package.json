@@ -1,0 +1,24 @@
+{
+  "name": "ploy",
+  "version": "1.0.0",
+  "bin": "./index.js",
+  "description": "Ploy is simple automated deployment manager",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboutindra/ploy.git"
+  },
+  "author": "Muhammad Indrawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboutindra/ploy/issues"
+  },
+  "homepage": "https://github.com/aboutindra/ploy#readme"
+}
