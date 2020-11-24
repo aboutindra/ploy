@@ -1,11 +1,15 @@
 {
-  "name": "ploy",
+  "name": "ployer",
   "version": "1.0.0",
   "bin": "./index.js",
-  "description": "Ploy is simple automated deployment manager",
+  "description": "Ployer is simple automated deployment manager",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "chalk": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "nodegit": "^0.27.0",
+    "prompt-sync": "^4.2.0",
+    "shelljs": "^0.8.4"
   },
   "devDependencies": {},
   "scripts": {
